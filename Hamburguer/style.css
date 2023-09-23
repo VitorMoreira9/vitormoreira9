@@ -1,0 +1,284 @@
+body {
+
+  font-family: Arial, sans-serif;
+  background: url("fundopreto.jpg");
+  margin: 0;
+  padding: 0;
+  text-align: left ;
+
+}
+
+.titulo1 {
+
+font-size: 20px;
+text-align: center;
+color: #A9A9A9;
+}
+
+.cardapio {
+
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.item {
+background-color: #000000; 
+border: 1px sol
+id #000000; 
+border-radius: 5px;
+margin: 10px; 
+padding: 20px; 
+width: 300px;
+text-align:center;
+box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); }
+
+
+.item4 {
+
+
+}
+
+
+.item3 {
+
+}
+
+
+
+.item img {
+max-width: 100%;
+height: auto;
+}
+
+
+
+.item h2 {
+font-size: 1.5rem;
+margin-top: 10px;
+}
+
+
+.item p {
+
+font-size: 1rem;
+
+}
+
+
+.preco {
+
+display: block;
+font-size: 1.25rem;
+margin-top: 10px;
+color: #A52A2A;
+
+}
+
+ 
+
+.titulo2 {
+
+font-size: 20px;
+text-align: center;
+color: #A9A9A9 ;
+}
+
+.cardapio2 {
+   
+    display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+
+
+}
+
+
+.coisa {
+
+background-color: #000000; 
+border: 1px sol
+id #000000; 
+border-radius: 5px;
+margin: 10px; 
+padding: 20px; 
+width: 300px;
+text-align:center;
+box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+}
+
+
+
+.coisa img {
+
+	max-width: 100%;
+height: auto;
+
+}
+
+
+.coisa h2 {
+
+	font-size: 1.5rem;
+margin-top: 10px;
+
+}
+
+.coisa p {
+
+font-size: 1rem;
+
+}
+
+.coisa2 {
+
+}
+
+
+
+
+.titulo3 {
+
+}
+
+
+
+.cardapio3 {
+
+	 display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+
+}
+
+
+
+.bebida {
+
+background-color: #000000; 
+border: 1px sol
+id #000000; 
+border-radius: 5px;
+margin: 10px; 
+padding: 20px; 
+width: 300px;
+text-align:center;
+box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+}
+
+.bebida img {
+
+max-width: 100%;
+height: auto;
+
+}
+
+
+.bebida h2 {
+
+	font-size: 1.5rem;
+margin-top: 10px;
+
+}
+
+.bebida p {
+
+font-size: 1rem;
+
+}
+
+ 
+.bebida4 {
+
+
+
+}
+
+.bebida4 {
+
+
+}
+
+
+.bebida2 {
+
+
+}
+
+
+
+
+
+.titulo4 {
+
+font-size: 20px;
+text-align: center;
+color: #A9A9A9 ;
+
+
+
+}
+
+
+cardapio4 {
+
+display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+
+}
+
+
+.sobremesa {
+
+background-color: #000000; 
+border: 1px sol
+id #000000; 
+border-radius: 5px;
+margin: 10px; 
+padding: 20px; 
+width: 300px;
+text-align:center;
+display: inline-block;
+box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+
+}
+
+
+.sobremesa img {
+
+
+max-width: 100%;
+height: auto;
+
+}
+
+
+
+.sobremesa h2 {
+
+font-size: 1.5rem;
+margin-top: 10px;
+
+}
+
+
+
+
+.sobremesa p {
+
+font-size: 1rem;
+
+}
+
+
+
+.sobremesa3 {
+
+
+}
+
+
+
